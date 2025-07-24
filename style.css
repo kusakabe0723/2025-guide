@@ -1,0 +1,407 @@
+.iphone {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .iphone .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 393px;
+    height: 2679px;
+    position: relative;
+  }
+  
+  .iphone .overlap {
+    position: absolute;
+    width: 394px;
+    height: 520px;
+    top: 1070px;
+    left: 0;
+    background-color: #ffa199;
+  }
+  
+  .iphone .text-wrapper {
+    top: 440px;
+    left: 127px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-2 {
+    width: 374px;
+    top: 339px;
+    left: 18px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-3 {
+    top: 399px;
+    left: 143px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .post-malone-swae-lee {
+    position: absolute;
+    width: 335px;
+    top: 256px;
+    left: 49px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-4 {
+    top: 490px;
+    left: 288px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .overlap-group {
+    position: absolute;
+    width: 395px;
+    height: 490px;
+    top: 1620px;
+    left: -2px;
+    background-color: #ede15a;
+  }
+  
+  .iphone .overlap-2 {
+    position: absolute;
+    width: 244px;
+    height: 58px;
+    top: 426px;
+    left: 142px;
+  }
+  
+  .iphone .text-wrapper-5 {
+    top: 0;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-6 {
+    top: 42px;
+    left: 153px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-7 {
+    width: 319px;
+    top: 325px;
+    left: 57px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .p {
+    position: absolute;
+    top: 270px;
+    left: 57px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-8 {
+    top: 385px;
+    left: 154px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .overlap-3 {
+    position: absolute;
+    width: 393px;
+    height: 479px;
+    top: 2140px;
+    left: 0;
+    background-color: #8effa2;
+  }
+  
+  .iphone .text-wrapper-9 {
+    top: 412px;
+    left: 123px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-10 {
+    width: 363px;
+    top: 311px;
+    left: 15px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-11 {
+    position: absolute;
+    top: 256px;
+    left: 62px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-12 {
+    top: 371px;
+    left: 141px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-13 {
+    top: 462px;
+    left: 295px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .youtube-and-vimeo {
+    position: absolute;
+    width: 360px;
+    height: 220px;
+    top: 1019px;
+    left: -437px;
+  }
+  
+  .iphone .img {
+    top: 2089px;
+    left: -433px;
+    position: absolute;
+    width: 360px;
+    height: 220px;
+  }
+  
+  .iphone .youtube-and-vimeo-2 {
+    top: 1569px;
+    left: -434px;
+    position: absolute;
+    width: 360px;
+    height: 220px;
+  }
+  
+  .iphone .overlap-4 {
+    position: absolute;
+    width: 393px;
+    height: 505px;
+    top: 535px;
+    left: 0;
+    background-color: #93f4f7;
+  }
+  
+  .iphone .text-wrapper-14 {
+    position: absolute;
+    top: 263px;
+    left: 99px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-15 {
+    top: 417px;
+    left: 132px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-16 {
+    top: 376px;
+    left: 132px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-17 {
+    width: 370px;
+    top: 316px;
+    left: 17px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .text-wrapper-18 {
+    top: 475px;
+    left: 287px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .kashilink {
+    top: 475px;
+    left: 287px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .iphone .youtube-and-vimeo-3 {
+    top: 484px;
+    left: -433px;
+    position: absolute;
+    width: 360px;
+    height: 220px;
+  }
+  
+  .iphone .overlap-5 {
+    position: absolute;
+    width: 394px;
+    height: 505px;
+    top: 0;
+    left: 0;
+  }
+  
+  .iphone .rectangle {
+    position: absolute;
+    width: 393px;
+    height: 505px;
+    top: 0;
+    left: 0;
+  }
+  
+  .iphone .div-2 {
+    top: 96px;
+    left: 114px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone .span {
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+  }
+  
+  .iphone .text-wrapper-19 {
+    font-size: 14px;
+  }
+  
+  .iphone .text-wrapper-20 {
+    top: 327px;
+    left: 69px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14px;
+    position: absolute;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+ 
